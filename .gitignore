@@ -12,3 +12,5 @@ stripe/bin
 example/bin
 example/target
 example/gen
+build/
+.gradle/
